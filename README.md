@@ -6,7 +6,7 @@
   - [Autor](#Autor)
   
 ## Descripción
-API de superheroés de Marvel Y DC.
+API de superhéroes de Marvel Y DC.
 
 Puedes probarla ingresando a este link: 
   

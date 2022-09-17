@@ -23,8 +23,19 @@
       "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/Marvel%2FCapitan%20America.jpg?alt=media&token=08d7f66d-ab92-4181-92b9-6fee8a66c758"
     },
     {
-      "id": "los-4-fantasticos",
+      "id": "iron-man",
       "top": "3",
+      "nombre": "Iron Man",
+      "poderes": "Inteligencia - Tecnología",
+      "estreno": "Marzo de 1963",
+      "descripcion": "Tony Stark es un multimillonario magnate empresarial y filántropo estadounidense, playboy e ingenioso científico, que sufrió una grave lesión en el pecho durante un secuestro en el Medio Oriente. Cuando sus captores intentan forzarlo a construir un arma de destrucción masiva, pero en cambio, construyó una armadura para salvar su vida y escapar del cautiverio. Más tarde, Stark desarrolla su traje, agregando armas y otros dispositivos tecnológicos que diseñó a través de su compañía, Industrias Stark",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/Marvel%2FIron%20Man.jpg?alt=media&token=6843224d-cf0b-4e20-90ed-bb33969e4436"
+    },
+    {
+      "id": "los-4-fantasticos",
+      "top": "4",
       "nombre": "Los 4 Fantásticos",
       "poderes": "Elasticidad - Invicibilidad - Fuego - Fuerza",
       "estreno": "Noviembre de 1961",
@@ -65,6 +76,17 @@
       "editorial": "DC Comics",
       "tipo": "heroes-dc",
       "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/DC%2FMujer%20Maravilla.jpg?alt=media&token=4f55f66c-6e42-496e-b5ac-15bb9c4f2b94"
+    },
+    {
+      "id": "flash",
+      "top": "4",
+      "nombre": "Flash",
+      "poderes": "Super velocidad",
+      "estreno": "Octubre de 1956",
+      "descripcion": "Barry Allen es un científico de la policía con una reputación de ser muy lento y frecuentemente retrasado, lo que frustra a su prometida, Iris West. Una noche, mientras trabaja hasta tarde en un nuevo caso, un rayo cae y hace añicos una caja llena de sustancias químicas no especificadas y empapa a Barry, dejándolo inconsciente temporalmente. Como resultado, Allen descubre más tarde que puede correr a velocidades sobrehumanas y posee reflejos, sentidos y curación igualmente mejorados",
+      "editorial": "DC Comics",
+      "tipo": "heroes-dc",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/DC%2FFlash.webp?alt=media&token=1e2f52e4-5d6e-460a-ae43-29de1e3611bb"
     }
   ]
 }

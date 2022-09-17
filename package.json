@@ -1,0 +1,17 @@
+{
+  "name": "api-heroes",
+  "description": "API de superheroés de Marvel Y DC.",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "devDependencies": {},
+  "author": "William Alejandro Ardila Sánchez",
+  "license": "ISC",
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

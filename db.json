@@ -1,0 +1,70 @@
+{
+  "superheroes": [
+    {
+      "id": "spiderman",
+      "top": "1",
+      "nombre": "SPIDER MAN",
+      "poderes": "Fuerza - Lanzar telarañas",
+      "estreno": "Agosto de 1962",
+      "descripcion": "De acuerdo con Amazing Fantasy n° 15, en donde hizo su primera aparición el personaje, Peter Benjamin Parker es un joven huérfano nativo de Forest Hills, Queens, en Nueva York, que vive con sus tíos May y Ben. Durante su etapa como estudiante de la ficticia Midtown High School, es mordido por una araña radiactiva en una exhibición científica y «adquiere la agilidad y la fuerza proporcional de un arácnido»",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/Marvel%2FSpiderman.jpg?alt=media&token=0f231c0d-0041-4d79-b105-7a26ddf9e12e"
+    },
+    {
+      "id": "capitan-america",
+      "top": "2",
+      "nombre": "Capitan América",
+      "poderes": "Fuerza - Velocidad",
+      "estreno": "Marzo de 1941",
+      "descripcion": "El Capitán América fue diseñado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial, y fue el personaje más popular de Timely Comics durante el período de guerra",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/Marvel%2FCapitan%20America.jpg?alt=media&token=08d7f66d-ab92-4181-92b9-6fee8a66c758"
+    },
+    {
+      "id": "los-4-fantasticos",
+      "top": "3",
+      "nombre": "Los 4 Fantásticos",
+      "poderes": "Elasticidad - Invicibilidad - Fuego - Fuerza",
+      "estreno": "Noviembre de 1961",
+      "descripcion": "Los Cuatro Fantásticos se forman después de que cuatro astronautas civiles se ven expuestos a los rayos cósmicos durante un vuelo de prueba no autorizado en el espacio exterior en un cohete experimental diseñado por el Dr. Reed Richards. El piloto Ben Grimm y los miembros de la tripulación Susan Storm y su hermano Johnny Storm sobreviven a un aterrizaje de emergencia en un campo en la Tierra. Al salir del cohete, los cuatro descubren que han desarrollado superpoderes increíbles, y deciden usar estos poderes para ayudar a otros",
+      "editorial": "Marvel Comics",
+      "tipo": "heroes-marvel",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/Marvel%2F4%20Fantasticos.jpg?alt=media&token=ea3767c1-5080-406c-98a2-659610f008d2"
+    },
+    {
+      "id": "batman",
+      "top": "1",
+      "nombre": "Batman",
+      "poderes": "Fuerza - Inteligencia",
+      "estreno": "Marzo de 1939",
+      "descripcion": "La identidad secreta de Batman es Bruce Wayne, un multimillonario magnate empresarial y filántropo dueño de Empresas Wayne en Gotham City. Después de presenciar el asesinato de sus padres en un violento y fallido asalto cuando era niño, juró venganza contra los criminales, un juramento moderado por el sentido de la justicia. Bruce Wayne se entrena física e intelectualmente y crea un traje inspirado en los murciélagos para combatir el crimen",
+      "editorial": "DC Comics",
+      "tipo": "heroes-dc",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/DC%2FBatman.jpg?alt=media&token=e598251d-9896-4437-89f9-510e87b1f0dc"
+    },
+    {
+      "id": "superman",
+      "top": "2",
+      "nombre": "Superman",
+      "poderes": "Fuerza - Velocidad - Volar",
+      "estreno": "Junio de 1938",
+      "descripcion": "Superman nació en el planeta Krypton y recibió el nombre de Kal-El al nacer. Cuando era bebé, sus padres lo enviaron a la Tierra en una pequeña nave espacial momentos antes de que Krypton fuera destruido en un cataclismo natural. Su nave aterrizó en el campo estadounidense, cerca de la ciudad ficticia de Smallville. Fue encontrado y adoptado por los agricultores Jonathan y Martha Kent, quienes lo llamaron Clark Kent",
+      "editorial": "DC Comics",
+      "tipo": "heroes-dc",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/DC%2FSuperman.jpg?alt=media&token=d8a8b1ae-08d0-4d97-b689-2ba1dde1f3ca"
+    },
+    {
+      "id": "mujer-maravilla",
+      "top": "3",
+      "nombre": "Mujer Maravilla",
+      "poderes": "Fuerza - Volar",
+      "estreno": "Diciembre de 1941",
+      "descripcion": "Es una princesa guerrera de las Amazonas, pueblo ficticio basado en el de las amazonas de la mitología griega. En su tierra natal es conocida como la princesa Diana de Temiscira pero fuera de esta utiliza la identidad secreta de Diana Prince",
+      "editorial": "DC Comics",
+      "tipo": "heroes-dc",
+      "imagen": "https://firebasestorage.googleapis.com/v0/b/api-heroes-b5a4f.appspot.com/o/DC%2FMujer%20Maravilla.jpg?alt=media&token=4f55f66c-6e42-496e-b5ac-15bb9c4f2b94"
+    }
+  ]
+}

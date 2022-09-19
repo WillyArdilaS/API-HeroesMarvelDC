@@ -1,17 +1,13 @@
-# API Superhéroes 
+# API Héroes Marvel - DC
 
 ## Table of contents
-  - [Descripción](#Descripcion)
-  - [Fotos](#Screenshots)
+  - [Descripción](#Descripción)
   - [Autor](#Autor)
   
 ## Descripción
-API de superhéroes de Marvel Y DC.
+API de héroes de Marvel Y DC.
 
 Puedes probarla ingresando a este link: 
-  
-## Screenshots
-![](./src/assets/Screenshot%2001.PNG "Fotos1")
 
 ## Autor
 William Alejandro Ardila Sánchez

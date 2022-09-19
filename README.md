@@ -7,9 +7,8 @@
 ## Descripción
 API de héroes de Marvel Y DC.
 
-Puedes probarla ingresando a este link: 
+Puedes verla ingresando a este link: [API](https://api-heroes-willyas.herokuapp.com/superheroes)
 
 ## Autor
 William Alejandro Ardila Sánchez
-
 - Twitter: [@W_A_A_S_](https://twitter.com/W_A_A_S_)
